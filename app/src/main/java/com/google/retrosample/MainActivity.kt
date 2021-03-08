@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity(), NavigateFragmentListener {
        // selectionViewModels = ViewModelProvider(this, viewModelFactory).get(SelectionViewModels::class.java)
         replaceFragment(SelectionFragment())
 
+        // Origin 2
 
     }
 
